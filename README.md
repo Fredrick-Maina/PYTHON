@@ -33,7 +33,6 @@ python/
 │   ├── loops/
 │   ├── conditionals/
 │   └── functions/
-├── exercises/
 ├── oop/
 ├── file_handling/
 ├── algorithms/
@@ -55,7 +54,7 @@ python/
 ├── data_analysis/
 ├── automation/
 ├── mini_projects/
-├── experiments/
+├── practical_experiments/
 ├── tests/
 ├── requirements.txt
 ├── .gitignore
