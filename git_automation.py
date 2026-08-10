@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+# import necessary modules
+
 import subprocess
 import sys
 from datetime import datetime
