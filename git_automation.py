@@ -1,5 +1,15 @@
 #!/usr/bin/env python3
 
+"""This script automates the process of committing and pushing changes to a Git repository.
+It checks for changes, stages them, commits with a provided or auto-generated message, and pushes
+to the current branch. If no commit message is provided, it generates one with a timestamp.
+
+chmod +x git_automation.py
+
+./git_automation.py "Your commit message here"
+
+"""
+
 # import necessary modules
 
 import subprocess
