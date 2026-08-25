@@ -1,3 +1,5 @@
+# usage python3 script_name.py email_file
+
 import sys
 import requests
 
